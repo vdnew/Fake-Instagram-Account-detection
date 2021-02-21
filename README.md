@@ -2,7 +2,7 @@
 This is Reasearch project to detect fake insgragram account using Artificial Neural Network
 
 
-# Model: "sequential"
+## Model: "sequential"
 _________________________________________________________________
 Layer (type)                 Output Shape              Param  
 =================================================================
