@@ -4,7 +4,7 @@ This is Reasearch project to detect fake insgragram account using Artificial Neu
 
 # Model: "sequential"
 _________________________________________________________________
-Layer (type)                 Output Shape              Param #   
+Layer (type)                 Output Shape              Param  
 =================================================================
 dense (Dense)                (None, 50)                600       
 _________________________________________________________________
